@@ -18,6 +18,9 @@
   },
   "author": "Yuki Akiyama",
   "license": "MIT",
+  "keywords": [
+    "localserver", "test", "promise"
+  ],
   "bugs": {
     "url": "https://github.com/you21979/node-local-echoserver/issues"
   },
