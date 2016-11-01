@@ -1,16 +1,17 @@
 {
   "name": "local-echoserver",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "local echo server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "bluebird": "^3.3"
+    "bluebird": "^3.4.1"
   },
   "devDependencies": {
-    "request-promise" : "2.0.x"
+    "request": "^2.34",
+    "request-promise" : "4.1.x"
   },
   "repository": {
     "type": "git",
